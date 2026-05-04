@@ -8,3 +8,8 @@ data/*.csv
 models/*.pth
 models/*.pt
 models/*.json
+models/*.pkl
+!models/gesture_classifier.pth
+!models/label_map.json
+!models/model_config.json
+!models/scaler.pkl
