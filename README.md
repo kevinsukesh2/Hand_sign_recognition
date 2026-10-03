@@ -1,6 +1,6 @@
 # Real-Time Hand Sign Recognition Using Landmark Extraction
 
-This Python project recognizes six static hand signs from webcam input using OpenCV, MediaPipe hand landmarks, and a trained PyTorch neural network. It displays gesture labels and confidence scores, and can trigger a shadow clone visual effect using person segmentation.
+This Python project recognizes six static hand signs from webcam input using OpenCV, MediaPipe hand landmarks, and a trained PyTorch neural network. It displays gesture labels and confidence scores, and can trigger a shadow clone visual effect using person segmentation. The dataset is not provided but there is provision to retrain the model on new hand signs as well.
 
 ## Pipeline
 
